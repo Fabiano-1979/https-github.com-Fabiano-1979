@@ -1,0 +1,5 @@
+{
+  "name": "Gerador da Sorte do TETINHA",
+  "description": "Um aplicativo inteligente que utiliza a API Gemini para analisar dados históricos da Mega da Virada, ajudando você a escolher seus números com base em estatísticas de números mais e menos sorteados e fornecendo uma análise em tempo real da sua combinação.",
+  "requestFramePermissions": []
+}
